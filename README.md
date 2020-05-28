@@ -2,6 +2,8 @@
 
 Mockup of chat using ReactJS(TypeScript), GiftedChat dependence and Firbase.
 
+### [Live Demo](http://sandrosantos.art.br/chat/s/)
+
 The project is based on [Working realtime chat in React in less than 20 minutes](https://medium.com/@janromaniak/working-realtime-chat-in-react-in-less-than-20-minutes-335f9cf73d69)
 
 I made changes to work like a Web WhatsApp App, with users on left side and the chat centered.
